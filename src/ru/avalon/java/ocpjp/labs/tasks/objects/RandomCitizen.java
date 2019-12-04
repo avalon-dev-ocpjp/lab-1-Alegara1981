@@ -22,9 +22,9 @@ public class RandomCitizen implements Factory<Citizen>, Citizen {
     private List<String> countries;
     private List<String> names;
     private List<String> lastNames;
-    private String pathCountry = "/Users/lesya/NetBeansProjects/lab-1/src/ru/avalon/java/ocpjp/labs/resources/countries.txt";
-    private String pathName = "/Users/lesya/NetBeansProjects/lab-1/src/ru/avalon/java/ocpjp/labs/resources/first-names.txt";
-    private String pathLastName = "/Users/lesya/NetBeansProjects/lab-1/src/ru/avalon/java/ocpjp/labs/resources/last-names.txt";
+    private String pathCountry = "/Users/aa/NetBeansProjects/lab-1-Alegara1981/src/ru/avalon/java/ocpjp/labs/resources/countries.txt";
+    private String pathName = "/Users/aa/NetBeansProjects/lab-1-Alegara1981/src/ru/avalon/java/ocpjp/labs/resources/first-names.txt";
+    private String pathLastName = "/Users/aa/NetBeansProjects/lab-1-Alegara1981/src/ru/avalon/java/ocpjp/labs/resources/last-names.txt";
     private String code;
     private String countryName;
     private Country country;
